@@ -21,8 +21,7 @@ I enjoy building automation pipelines, managing cloud infrastructure, and deploy
 
 ### 🖥 Operating Systems
 <p>
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
-<img src="https://skillicons.dev/icons?i=windows" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
 Linux • Windows Server (MCSA)
@@ -32,10 +31,10 @@ Linux • Windows Server (MCSA)
 ### ⚙ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,ansible,github,git" />
 </p>
 
-Docker • Kubernetes • Jenkins • ArgoCD • Helm • Terraform • Ansible • AWS
+Docker • Kubernetes • Jenkins • ArgoCD • Helm • Terraform • Ansible • AWS • Git • GitHub
 
 ---
 
