@@ -1,26 +1,32 @@
-# Hi 👋 I'm AbdelRahman Ahmed
+<h1 align="center">Hi 👋, I'm AbdelRahman Ahmed</h1>
+<h3 align="center">DevOps & Cloud Enthusiast | Communications & Electronics Engineering Student</h3>
 
-🎓 Senior Student – Communications & Electronics Engineering  
-🏫 Minia University  
-📅 Expected Graduation: 2026  
-
-💻 Passionate about **DevOps, Cloud Computing, and System Administration**.  
-I enjoy building automation pipelines, managing cloud infrastructure, and deploying scalable applications.
-
----
-
-## 🚀 Career Interests
-
-- DevOps Engineer
-- Cloud Engineer
-- System / System Administration Engineer
+<p align="center">
+🎓 Faculty of Engineering – Communications & Electronics Department <br>
+🏫 Minia University <br>
+📅 Expected Graduation: 2026
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### 🖥 Operating Systems
-<p>
+💻 Passionate about **DevOps, Cloud Computing, and System Administration**
+
+I enjoy building **CI/CD pipelines**, managing **cloud infrastructure**, and deploying **scalable applications using Kubernetes and Docker**.
+
+🔎 Currently seeking opportunities as:
+
+- DevOps Engineer  
+- Cloud Engineer  
+- System / System Administration Engineer  
+
+---
+
+# 🛠 Tech Stack
+
+## 🖥 Operating Systems
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
@@ -28,19 +34,19 @@ Linux • Windows Server (MCSA)
 
 ---
 
-### ⚙ DevOps & Cloud
+## ⚙ DevOps & Cloud Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,ansible,github,git" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,ansible,nginx,git,github" />
 </p>
 
-Docker • Kubernetes • Jenkins • ArgoCD • Helm • Terraform • Ansible • AWS • Git • GitHub
+Docker • Kubernetes • Jenkins • ArgoCD • Helm • Terraform • Ansible • AWS • Nginx • Git • GitHub
 
 ---
 
-### 📊 Monitoring & Observability
+## 📊 Monitoring & Observability
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
@@ -48,9 +54,9 @@ Prometheus • Grafana • Loki
 
 ---
 
-### 💻 Programming & Scripting
+## 💻 Programming & Scripting
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,matlab" />
 </p>
 
@@ -58,13 +64,26 @@ Python • Bash • C • C++ • MATLAB • OOP
 
 ---
 
-### 🌐 Networking
+## 🌐 Networking
 
 CCNA Knowledge
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Featured Projects
+
+🔹 **CI/CD Pipeline with Jenkins + ArgoCD + Kubernetes**  
+Automated pipeline that builds Docker images, pushes them to DockerHub, and deploys them automatically to Kubernetes using GitOps.
+
+🔹 **Infrastructure as Code with Terraform**  
+Provisioning AWS infrastructure using Terraform.
+
+🔹 **Monitoring Stack**  
+Monitoring Kubernetes applications using Prometheus, Grafana, and Loki.
+
+---
+
+# 📚 Currently Learning
 
 - Advanced Kubernetes
 - Cloud Infrastructure Automation
