@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there 👋 I'm AbdelRahman Ahmed
 
-<!--
-**3bdoahmed/3bdoahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Student at the Faculty of Engineering – Communications & Electronics Department, Minia University  
+📅 Expected Graduation: 2026  
 
-Here are some ideas to get you started:
+I am passionate about **DevOps, Cloud Computing, and System Administration**.  
+I enjoy building automation pipelines, deploying applications, and managing cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Career Interests
+
+I am currently seeking opportunities as:
+
+- DevOps Engineer
+- Cloud Engineer
+- System / System Administration Engineer
+
+---
+
+## 🛠 Technical Skills
+
+### 🖥 Operating Systems
+- Linux Administration
+- Windows Server Administration (MCSA)
+
+### ⚙ DevOps & Cloud Tools
+- Docker
+- Kubernetes (K8s)
+- Helm
+- Jenkins
+- ArgoCD
+- Terraform
+- Ansible
+- AWS Cloud
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- Loki
+
+### 🔁 CI/CD
+- Jenkins
+- ArgoCD
+
+### 💻 Programming & Scripting
+- Bash
+- Python
+- C
+- C++
+- MATLAB
+- Object-Oriented Programming (OOP)
+
+### 🌐 Networking
+- CCNA Knowledge
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Kubernetes
+- Cloud Infrastructure Automation
+- DevOps Best Practices
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (add your LinkedIn link here)
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ Always interested in learning new technologies and building scalable systems.
