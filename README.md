@@ -1,16 +1,15 @@
-# Hi there 👋 I'm AbdelRahman Ahmed
+# Hi 👋 I'm AbdelRahman Ahmed
 
-🎓 Senior Student at the Faculty of Engineering – Communications & Electronics Department, Minia University  
+🎓 Senior Student – Communications & Electronics Engineering  
+🏫 Minia University  
 📅 Expected Graduation: 2026  
 
-I am passionate about **DevOps, Cloud Computing, and System Administration**.  
-I enjoy building automation pipelines, deploying applications, and managing cloud infrastructure.
+💻 Passionate about **DevOps, Cloud Computing, and System Administration**.  
+I enjoy building automation pipelines, managing cloud infrastructure, and deploying scalable applications.
 
 ---
 
 ## 🚀 Career Interests
-
-I am currently seeking opportunities as:
 
 - DevOps Engineer
 - Cloud Engineer
@@ -18,41 +17,51 @@ I am currently seeking opportunities as:
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
 ### 🖥 Operating Systems
-- Linux Administration
-- Windows Server Administration (MCSA)
+<p>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=windows" height="40"/>
+</p>
 
-### ⚙ DevOps & Cloud Tools
-- Docker
-- Kubernetes (K8s)
-- Helm
-- Jenkins
-- ArgoCD
-- Terraform
-- Ansible
-- AWS Cloud
+Linux • Windows Server (MCSA)
+
+---
+
+### ⚙ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,ansible" />
+</p>
+
+Docker • Kubernetes • Jenkins • ArgoCD • Helm • Terraform • Ansible • AWS
+
+---
 
 ### 📊 Monitoring & Observability
-- Prometheus
-- Grafana
-- Loki
 
-### 🔁 CI/CD
-- Jenkins
-- ArgoCD
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+Prometheus • Grafana • Loki
+
+---
 
 ### 💻 Programming & Scripting
-- Bash
-- Python
-- C
-- C++
-- MATLAB
-- Object-Oriented Programming (OOP)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,matlab" />
+</p>
+
+Python • Bash • C • C++ • MATLAB • OOP
+
+---
 
 ### 🌐 Networking
-- CCNA Knowledge
+
+CCNA Knowledge
 
 ---
 
@@ -66,7 +75,7 @@ I am currently seeking opportunities as:
 
 ## 📫 Connect with Me
 
-- LinkedIn: (add your LinkedIn link here)
+- LinkedIn: www.linkedin.com/in/abdelrahman-ahmed-a63766289
 - GitHub: https://github.com/your-username
 
 ---
