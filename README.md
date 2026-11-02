@@ -4,7 +4,7 @@
 <p align="center">
 🎓 Faculty of Engineering – Communications & Electronics Department <br>
 🏫 Minia University <br>
-📅 Expected Graduation: 2026
+📅 Graduation year: 2026
 </p>
 
 ---
