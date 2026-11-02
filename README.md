@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdelRahman Ahmed</h1>
-<h3 align="center">DevOps & Cloud Enthusiast | Communications & Electronics Engineering Student</h3>
+<h3 align="center">DevOps & Cloud Enthusiast | IT Specialist</h3>
 
 <p align="center">
 🎓 Faculty of Engineering – Communications & Electronics Department <br>
